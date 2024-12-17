@@ -1,16 +1,18 @@
-# myapp
+# Nama Proyek
+Projek ini adalah aplikasi tentang tabel periodik kimia.
 
-A new Flutter project.
+## Cara Menjalankan Proyek
+Buat email, client atau admin. Ketika memilih role admin, akan diarahkan ke halaman admin dashboar, ketika memilih role client, akan diarahkan ke home page. 
+Dalam home page berisi tentang informasi berbagai elemen-elemen kimia beserta detail dari elemen tersebut.
 
-## Getting Started
+## Fitur
+- Admin Dashboard
+- Home Page
+- Login
+- Register
+- Setting
+- Search
+- Profile
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Lisensi
+Diemas Andung Prayoga
